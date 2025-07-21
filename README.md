@@ -1,36 +1,29 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>اولین نسخه پروداکشن</title>
   <style>
-    body {
-      font-family: sans-serif;
-      background-color: #f0f8ff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
     .box {
-      background-color: #d0e8ff;
-      padding: 20px 30px;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      background-color: #e0f0ff; /* آبی کم‌رنگ */
+      color: #000; /* متن مشکی */
+      padding: 20px;
+      border-radius: 10px;
+      width: fit-content;
+      margin: 50px auto;
+      font-family: sans-serif;
       text-align: center;
-      color: #000;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     .footer {
       margin-top: 10px;
       font-weight: bold;
-      color: #444;
     }
   </style>
 </head>
 <body>
   <div class="box">
-    <div>اولین نسخه پروداکشن</div>
+    اولین نسخه پروداکشن
     <div class="footer">sft</div>
   </div>
 
