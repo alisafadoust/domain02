@@ -2,6 +2,7 @@
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>اولین نسخه پروداکشن</title>
   <style>
     .box {
@@ -27,6 +28,6 @@
     <div class="footer">sft</div>
   </div>
 
-  <script id="5b012b51-dad6-4848-8e23-720b93a2c8de" src="https://my.dartamas.com/chatButtonModule.js" data-url="sipOnline"></script>
+  <script id="5b012b51-dad6-4848-8e23-720b93a2c8de"  src="https://my.dartamas.com/chatButtonModule.js" data-url="sipOnline" ></script>
 </body>
 </html>
