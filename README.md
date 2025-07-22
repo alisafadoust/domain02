@@ -28,6 +28,6 @@
     <div class="footer">sft</div>
   </div>
 
-  <script id="5b012b51-dad6-4848-8e23-720b93a2c8de"  src="https://my.dartamas.com/chatButtonModule.js" data-url="sipOnline" ></script>
+  <script id="40f108ff-aa12-4456-95df-ea27446190c8"  src="https://my.dartamas.com/chatButtonModule.js" data-url="sipOnline" ></script>
 </body>
 </html>
